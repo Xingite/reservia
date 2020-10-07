@@ -1,0 +1,60 @@
+/*
+HEADER
+*/
+
+.header {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    height: 100px;
+    line-height: 70px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header .header-logo {
+    color: #0065fc;
+    font-family: 'Raleway', sans-serif;
+    float: left;
+    margin-left: 30px;
+}
+
+.header .header-menu {
+    font-family: 'Raleway', sans-serif;
+    float: right;
+    margin-right: 30px;
+}
+
+.header .header-menu {
+    margin-right: 15px;
+    color: #0065fc;
+}
+
+.info {
+    display: flex;
+    margin: auto;
+}
+
+.body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    background-color: #f2f2f2;
+    margin: 0px;
+}
+
+h1 {
+    padding-left: 30px;
+}
+
+h2 {
+    padding-left: 30px;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 13px;
+}
+
+
+/*
+  Hébergement
+  */
